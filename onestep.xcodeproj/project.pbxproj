@@ -136,6 +136,7 @@
 		84F23FC02AAB00AB000551A1 /* onestep */ = {
 			isa = PBXGroup;
 			children = (
+				D6182BCD2AC0A0E100EA5FA1 /* Model */,
 				8412C03F2AADB1A100E28F91 /* Todolist */,
 				8412C03C2AAC627300E28F91 /* Calendar */,
 				84F23FFC2AAB3030000551A1 /* Splash */,
@@ -190,6 +191,13 @@
 				84F23FFD2AAB3045000551A1 /* WelcomeView.swift */,
 			);
 			path = Splash;
+			sourceTree = "<group>";
+		};
+		D6182BCD2AC0A0E100EA5FA1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
